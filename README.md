@@ -1,5 +1,5 @@
 # ScorpionsHaveSixLegs
-Code for an autonomous hexapod walking robot, with a flexible grabber attached to the base at rear. Hopefully it will be able to walk around picking up bits of detritus. Would be amazing if possible to solar power - but napkin maths suggests that the solar panel would need to be approx 13m^2.
+Arduino code for an autonomous hexapod walking robot, with a flexible grabber attached to the base at rear. Hopefully it will be able to walk around picking up bits of detritus. Would be amazing if possible to solar power - but napkin maths suggests that the solar panel would need to be approx 13m^2.
 
 ## Planned features (Phase 1)
 - [ ] Read sonar input
