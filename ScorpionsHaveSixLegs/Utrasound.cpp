@@ -6,6 +6,7 @@
 #include "Utrasound.h"
 
 int UtrasoundClass::initCount = 0;
+UtrasoundClass* UtrasoundClass::allVision[2] = {};
 
 void UtrasoundClass::init(int tp, int ep)
 {

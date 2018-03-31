@@ -4,6 +4,7 @@
 
 #include "Leg.h"
 int LegClass::initCount = 0;
+LegClass* LegClass::allLegs[6] = {};
 
 void LegClass::init(int hipPin, int coxaPin, int kneePin)
 {
